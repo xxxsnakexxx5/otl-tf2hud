@@ -9,7 +9,7 @@
 *HudMainMenu
 http://i.imgur.com/zC1Xj.jpg
 
- == Scoreboard ===  
+== Scoreboard ===  
 
 <wiki:comment>
 Note: Scoreboard is cut off because of my resolution. Should not be an issue if you play at XX by 10xx. Alternate scoreboards are provided, see the readme.
