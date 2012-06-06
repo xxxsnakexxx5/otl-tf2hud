@@ -18,6 +18,12 @@ http://i.imgur.com/0f18J.jpg
 http://i.imgur.com/jT5V5.jpg
 http://i.imgur.com/rf6bQ.jpg
 
+*Scoreboard X by 800
+http://i.imgur.com/2KCm6.jpg
+
+*Scoreboard X by 800 12v12 mode
+http://i.imgur.com/6TuMD.jpg
+
 *Target ids
 http://i.imgur.com/MeL0k.jpg
 
@@ -26,11 +32,14 @@ http://i.imgur.com/MeL0k.jpg
 (On Scout Minmode hud)
 http://i.imgur.com/wNJMH.jpg
 
+*LowHealth
+http://i.imgur.com/QF1gL.jpg
+
 *Soldier
-http://i.imgur.com/hMPM8.jpg
+http://i.imgur.com/j7zQ1.jpg
 
 *Soldier_minmode
-http://i.imgur.com/DoSfj.jpg
+http://i.imgur.com/cnOlb.jpg
 
 *Medic
 http://i.imgur.com/AFgSj.jpg
@@ -38,8 +47,24 @@ http://i.imgur.com/AFgSj.jpg
 *Medic_minmode
 http://i.imgur.com/M0NoV.jpg
 
-*MOTD
-http://i.imgur.com/1jEJU.jpg
+*Pyro
+http://i.imgur.com/tNOKe.jpg
+
+*Pyro_minmode
+http://i.imgur.com/ByxgE.jpg
+
+*Tournament Mode + (older)Scoreboard
+http://i.imgur.com/65sh3.jpg
+
+*MOTDPage
+http://i.imgur.com/tW1jf.png
+
+*ClassMenu
+http://i.imgur.com/AdfLe.jpg
+
+*TeamMenu
+http://i.imgur.com/AR17e.png
+
 
 <wiki:comment>
 
