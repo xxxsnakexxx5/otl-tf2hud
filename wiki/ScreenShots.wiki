@@ -4,6 +4,12 @@
 
 More *COMING SOON!!!!!*
 
+
+*Scoreboard  
+
+Note: Scoreboard is cut off because of my resolution. Should not be an issue if you play at XX by 10xx. Alternate scoreboards are provided, see the readme.
+http://i.imgur.com/0f18J.jpg
+
 *Target ids
 http://i.imgur.com/MeL0k.jpg
 
@@ -12,11 +18,6 @@ http://i.imgur.com/hMPM8.jpg
 
 *Soldier_minmode
 http://i.imgur.com/DoSfj.jpg
-
-*Scoreboard  
-
-Note: Scoreboard is cut off because of my resolution. Should not be an issue if you play at XX by 10xx. Alternate scoreboards are provided, see the readme.
-http://i.imgur.com/0f18J.jpg
 
 *Medic
 http://i.imgur.com/AFgSj.jpg
