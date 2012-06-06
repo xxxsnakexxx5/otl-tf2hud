@@ -13,6 +13,8 @@ http://i.imgur.com/zC1Xj.jpg
 
 Note: Scoreboard is cut off because of my resolution. Should not be an issue if you play at XX by 10xx. Alternate scoreboards are provided, see the readme.
 http://i.imgur.com/0f18J.jpg
+http://i.imgur.com/jT5V5.jpg
+http://i.imgur.com/rf6bQ.jpg
 
 *Target ids
 http://i.imgur.com/MeL0k.jpg
@@ -33,6 +35,9 @@ http://i.imgur.com/AFgSj.jpg
 
 *Medic_minmode
 http://i.imgur.com/M0NoV.jpg
+
+*MOTD
+http://i.imgur.com/1jEJU.jpg
 
 <wiki:comment>
 
