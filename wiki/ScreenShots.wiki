@@ -1,0 +1,35 @@
+#summary Screen Shots of the Hud.
+
+= ScreenShots =
+
+More *COMING SOON!!!!!*
+
+ *Target ids
+http://i.imgur.com/MeL0k.jpg
+
+*Soldier
+http://i.imgur.com/hMPM8.jpg
+
+*Soldier_minmode
+http://i.imgur.com/DoSfj.jpg
+
+*Scoreboard
+Note: Scoreboard is cut off because of my resolution. Should not be an issue if you play at XX by 10xx
+http://i.imgur.com/0f18J.jpg
+
+*Medic
+http://imgur.com/AFgSj
+
+*Medic_Minmode
+http://i.imgur.com/M0NoV.jpg
+
+<wiki:comment>
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+This text will be removed from the rendered page.
+</wiki:comment>
