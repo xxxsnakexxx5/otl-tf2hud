@@ -1,4 +1,5 @@
 #summary Screen Shots of the Hud.
+#labels Featured
 
 = ScreenShots =
 
