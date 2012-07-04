@@ -85,6 +85,15 @@ http://i.imgur.com/AdfLe.jpg
 *TeamMenu
 http://i.imgur.com/AR17e.png
 
+== v0.7.3.8 ==
+New Control Points
+
+Normal Mode (new)
+http://i.imgur.com/F3EUM.jpg
+
+MinMode (stayed the same)
+http://i.imgur.com/1ebbt.jpg
+
 
 <wiki:comment>
 
