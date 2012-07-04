@@ -1,0 +1,21 @@
+#Change Log of updates
+
+Starting this 7/4/12 w/ the introduction of v0.7.3.8
+
+=== v0.7.3.8 ===
+
+#added "addons&extras" folder containing user options for control points,Damage numbers, demoman stickies placed number, Health Color, Scoreboard, & target IDs.
+
+I am considering adding more, but I can't make too many files replace-able for fear of over-lapping changes nullifying each other.
+
+This replaces the old system of renaming files. I still have those files in the hud, I will clean them out when I am confortable this is working (probably next update).
+
+#Updated the color of Demoman Stickies. When you have stickies placed, the meter will be cyan. WHen you have no stickies placed it will be magenta.
+
+Changed HudHealthAccount. Picking up health now displays a cyan number instead of a green one (too much green before).
+
+#Changed Control point icons. Control point icons are now larger in Normal mode (minmode 0). They are the same size in Minmode 1. You can still have only small control points by using the new addons feature.
+
+#Because I changed control point icons, I was required to update ItemEffectBars to accommodate the change.
+
+#I also fixed the 12v12 scoreboard. Spectator name display was positioned wrongly.
