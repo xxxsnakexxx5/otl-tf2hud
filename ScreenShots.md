@@ -1,0 +1,106 @@
+# ScreenShots #
+
+**NEW SCEENSHOTS COMING SOON!**
+
+## A Taste ##
+
+**HudMainMenu
+![http://i.imgur.com/zC1Xj.jpg](http://i.imgur.com/zC1Xj.jpg)**
+
+## Scoreboard ##
+
+<a href='Hidden comment: 
+Note: Scoreboard is cut off because of my resolution. Should not be an issue if you play at XX by 10xx. Alternate scoreboards are provided, see the readme.
+http://i.imgur.com/0f18J.jpg
+http://i.imgur.com/jT5V5.jpg
+http://i.imgur.com/rf6bQ.jpg
+'></a>
+
+**Scoreboard X by 800
+![http://i.imgur.com/2KCm6.jpg](http://i.imgur.com/2KCm6.jpg)**
+
+**Scoreboard X by 800 12v12 mode
+![http://i.imgur.com/6TuMD.jpg](http://i.imgur.com/6TuMD.jpg)**
+
+**Older Scoreboard
+![http://i.imgur.com/ffuEG.jpg](http://i.imgur.com/ffuEG.jpg)**
+
+## More! ##
+**Target ids
+![http://i.imgur.com/MeL0k.jpg](http://i.imgur.com/MeL0k.jpg)**
+
+## v0.7.3.8 ##
+New Control Points
+
+Normal Mode (new)
+![http://i.imgur.com/F3EUM.jpg](http://i.imgur.com/F3EUM.jpg)
+
+MinMode (stayed the same)
+![http://i.imgur.com/1ebbt.jpg](http://i.imgur.com/1ebbt.jpg)
+
+#### All of the pictures below have old Control point incons ####
+
+**Soldier
+![http://i.imgur.com/j7zQ1.jpg](http://i.imgur.com/j7zQ1.jpg)**
+
+**Soldier\_minmode
+![http://i.imgur.com/cnOlb.jpg](http://i.imgur.com/cnOlb.jpg)**
+
+**Medic
+![http://i.imgur.com/AFgSj.jpg](http://i.imgur.com/AFgSj.jpg)**
+
+**Medic\_minmode
+![http://i.imgur.com/M0NoV.jpg](http://i.imgur.com/M0NoV.jpg)**
+
+**Demoman + buffed health
+![http://i.imgur.com/Mi0p2.jpg](http://i.imgur.com/Mi0p2.jpg)**
+
+**Demoman\_minmode + Buffed Health
+![http://i.imgur.com/xJnLI.jpg](http://i.imgur.com/xJnLI.jpg)**
+
+**Pyro
+![http://i.imgur.com/tNOKe.jpg](http://i.imgur.com/tNOKe.jpg)**
+
+**Pyro\_minmode
+![http://i.imgur.com/ByxgE.jpg](http://i.imgur.com/ByxgE.jpg)**
+
+**item effect bars**
+
+(On Scout Minmode hud)
+![http://i.imgur.com/wNJMH.jpg](http://i.imgur.com/wNJMH.jpg)
+
+**LowHealth
+![http://i.imgur.com/QF1gL.jpg](http://i.imgur.com/QF1gL.jpg)**
+
+**Low Ammo
+![http://i.imgur.com/DybSj.jpg](http://i.imgur.com/DybSj.jpg)**
+
+**Tournament Mode + (older)Scoreboard
+![http://i.imgur.com/65sh3.jpg](http://i.imgur.com/65sh3.jpg)**
+
+**Tournament Spectate + scoreboard
+![http://i.imgur.com/s780j.jpg](http://i.imgur.com/s780j.jpg)**
+
+**Tournament Spectate 2
+![http://i.imgur.com/pbQFK.jpg](http://i.imgur.com/pbQFK.jpg)**
+
+**MOTDPage
+![http://i.imgur.com/tW1jf.png](http://i.imgur.com/tW1jf.png)**
+
+**ClassMenu
+![http://i.imgur.com/AdfLe.jpg](http://i.imgur.com/AdfLe.jpg)**
+
+**TeamMenu
+![http://i.imgur.com/AR17e.png](http://i.imgur.com/AR17e.png)**
+
+
+<a href='Hidden comment: 
+
+= Details =
+
+Add your content here.  Format your content with:
+* Text in *bold* or _italic_
+* Headings, paragraphs, and lists
+* Automatic links to other wiki pages
+This text will be removed from the rendered page.
+'></a>
